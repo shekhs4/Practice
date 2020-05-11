@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4E7B-75C2
+
+ Directory of C:\Users\shashank.shekhar\OneDrive - Qualitest Group\Desktop\LearnGIT
+
+11-05-2020  16:51    <DIR>          .
+11-05-2020  16:51    <DIR>          ..
+11-05-2020  16:51                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  896,593,608,704 bytes free
